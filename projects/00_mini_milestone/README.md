@@ -456,7 +456,7 @@ As a project we will be creating a task management application, with the feature
 
 1. [VS Code Documentation](https://code.visualstudio.com/docs)
 2. [VS Code Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
-3. [Git Basics Guide](https://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+3. [Git Basics Guide](https://git-scm.com/docs/gittutorial)
 4. [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
 5. [Chrome DevTools Guide](https://developers.google.com/web/tools/chrome-devtools)
 6. [JavaScript MDN Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
